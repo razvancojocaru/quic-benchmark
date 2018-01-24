@@ -1,0 +1,4 @@
+# Ignore HAR json files
+*.json
+# Ignore test data
+*.dat
