@@ -1,0 +1,31 @@
+-----Measurement 1-----
+
+real	0m11.223s
+user	0m5.052s
+sys	0m3.664s
+
+real	0m10.457s
+user	0m4.584s
+sys	0m3.444s
+
+real	0m12.461s
+user	0m5.652s
+sys	0m4.636s
+-----Measurement 2-----
+
+real	4m39.379s
+user	0m12.820s
+sys	0m11.948s
+
+real	4m43.655s
+user	0m11.780s
+sys	0m10.852s
+
+real	0m5.311s
+user	0m1.772s
+sys	0m0.892s
+-----Measurement 3-----
+
+real	0m1.696s
+user	0m0.760s
+sys	0m0.088s
