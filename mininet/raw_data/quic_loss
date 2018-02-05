@@ -1,31 +1,91 @@
 -----Measurement 1-----
 
-real	0m11.223s
-user	0m5.052s
-sys	0m3.664s
+real	0m10.866s
+user	0m5.204s
+sys	0m3.820s
 
-real	0m10.457s
-user	0m4.584s
-sys	0m3.444s
+real	0m10.601s
+user	0m4.484s
+sys	0m3.540s
 
-real	0m12.461s
-user	0m5.652s
-sys	0m4.636s
+real	0m11.687s
+user	0m4.456s
+sys	0m3.008s
 -----Measurement 2-----
 
-real	4m39.379s
-user	0m12.820s
-sys	0m11.948s
+real	5m7.555s
+user	0m11.948s
+sys	0m11.152s
 
-real	4m43.655s
-user	0m11.780s
-sys	0m10.852s
+real	5m4.729s
+user	0m11.776s
+sys	0m11.048s
 
-real	0m5.311s
-user	0m1.772s
-sys	0m0.892s
+real	5m16.799s
+user	0m11.876s
+sys	0m11.380s
 -----Measurement 3-----
 
-real	0m1.696s
-user	0m0.760s
-sys	0m0.088s
+real	7m11.400s
+user	0m13.188s
+sys	0m11.824s
+
+real	6m32.435s
+user	0m12.544s
+sys	0m11.688s
+
+real	6m50.926s
+user	0m12.656s
+sys	0m11.836s
+-----Measurement 4-----
+
+real	10m45.485s
+user	0m15.048s
+sys	0m13.820s
+
+real	10m41.206s
+user	0m14.572s
+sys	0m13.876s
+
+real	10m23.787s
+user	0m14.144s
+sys	0m13.824s
+-----Measurement 5-----
+
+real	13m2.888s
+user	0m15.772s
+sys	0m14.444s
+
+real	13m25.844s
+user	0m15.276s
+sys	0m15.068s
+
+real	12m42.729s
+user	0m15.376s
+sys	0m14.652s
+-----Measurement 6-----
+
+real	15m59.967s
+user	0m16.356s
+sys	0m15.876s
+
+real	15m43.881s
+user	0m16.216s
+sys	0m15.588s
+
+real	15m55.685s
+user	0m16.064s
+sys	0m15.708s
+-----Measurement 7-----
+
+real	17m43.354s
+user	0m16.836s
+sys	0m16.216s
+
+real	17m34.192s
+user	0m17.312s
+sys	0m16.112s
+
+real	17m59.780s
+user	0m17.352s
+sys	0m16.380s
