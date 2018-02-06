@@ -1,0 +1,273 @@
+-----Measurement 0.0 loss-----
+
+real	0m10.341s
+user	0m5.608s
+sys	0m4.288s
+
+real	0m10.027s
+user	0m3.908s
+sys	0m2.524s
+
+real	0m10.014s
+user	0m3.716s
+sys	0m2.512s
+-----Measurement 0.05 loss-----
+
+real	0m28.611s
+user	0m8.272s
+sys	0m7.052s
+
+real	0m30.967s
+user	0m8.432s
+sys	0m6.888s
+
+real	0m27.565s
+user	0m8.392s
+sys	0m7.200s
+-----Measurement 0.1 loss-----
+
+real	0m41.196s
+user	0m8.904s
+sys	0m7.528s
+
+real	0m44.537s
+user	0m11.300s
+sys	0m9.708s
+
+real	0m45.371s
+user	0m12.104s
+sys	0m10.332s
+-----Measurement 0.15 loss-----
+
+real	0m58.263s
+user	0m11.608s
+sys	0m10.012s
+
+real	0m56.874s
+user	0m10.016s
+sys	0m8.328s
+
+real	0m53.150s
+user	0m9.628s
+sys	0m8.400s
+-----Measurement 0.2 loss-----
+
+real	1m12.474s
+user	0m10.480s
+sys	0m8.968s
+
+real	1m12.666s
+user	0m10.484s
+sys	0m9.340s
+
+real	1m5.265s
+user	0m12.080s
+sys	0m10.404s
+-----Measurement 0.25 loss-----
+
+real	1m15.446s
+user	0m12.216s
+sys	0m10.924s
+
+real	1m21.376s
+user	0m11.564s
+sys	0m10.136s
+
+real	1m10.206s
+user	0m9.964s
+sys	0m8.356s
+-----Measurement 0.3 loss-----
+
+real	1m20.522s
+user	0m10.368s
+sys	0m9.100s
+
+real	1m28.081s
+user	0m11.208s
+sys	0m9.744s
+
+real	1m18.723s
+user	0m12.348s
+sys	0m10.740s
+-----Measurement 0.35 loss-----
+
+real	1m32.390s
+user	0m12.392s
+sys	0m11.012s
+
+real	1m42.351s
+user	0m11.048s
+sys	0m9.748s
+
+real	1m44.413s
+user	0m10.784s
+sys	0m9.968s
+-----Measurement 0.4 loss-----
+
+real	1m38.050s
+user	0m12.024s
+sys	0m10.932s
+
+real	1m39.160s
+user	0m13.280s
+sys	0m11.928s
+
+real	1m42.332s
+user	0m11.004s
+sys	0m9.372s
+-----Measurement 0.45 loss-----
+
+real	1m42.913s
+user	0m11.316s
+sys	0m9.484s
+
+real	1m56.097s
+user	0m12.360s
+sys	0m10.632s
+
+real	1m53.142s
+user	0m14.148s
+sys	0m12.460s
+-----Measurement 0.5 loss-----
+
+real	1m56.991s
+user	0m11.180s
+sys	0m10.036s
+
+real	1m55.543s
+user	0m10.660s
+sys	0m9.672s
+
+real	2m3.498s
+user	0m12.828s
+sys	0m11.248s
+-----Measurement 0.55 loss-----
+
+real	2m9.398s
+user	0m13.100s
+sys	0m11.620s
+
+real	2m8.238s
+user	0m11.364s
+sys	0m10.060s
+
+real	2m5.837s
+user	0m11.100s
+sys	0m10.464s
+-----Measurement 0.6 loss-----
+
+real	2m13.836s
+user	0m14.540s
+sys	0m12.608s
+
+real	2m3.520s
+user	0m10.964s
+sys	0m9.820s
+
+real	2m13.445s
+user	0m11.404s
+sys	0m10.328s
+-----Measurement 0.65 loss-----
+
+real	2m19.532s
+user	0m13.988s
+sys	0m12.228s
+
+real	2m18.731s
+user	0m12.676s
+sys	0m11.456s
+
+real	2m18.806s
+user	0m11.144s
+sys	0m10.396s
+-----Measurement 0.7 loss-----
+
+real	2m26.236s
+user	0m13.384s
+sys	0m11.804s
+
+real	2m33.528s
+user	0m12.896s
+sys	0m12.136s
+
+real	2m21.677s
+user	0m11.428s
+sys	0m10.388s
+-----Measurement 0.75 loss-----
+
+real	2m36.520s
+user	0m12.896s
+sys	0m11.352s
+
+real	2m33.163s
+user	0m13.416s
+sys	0m11.740s
+
+real	2m20.106s
+user	0m11.160s
+sys	0m10.040s
+-----Measurement 0.8 loss-----
+
+real	2m38.508s
+user	0m13.436s
+sys	0m11.856s
+
+real	2m37.456s
+user	0m12.956s
+sys	0m11.868s
+
+real	2m41.755s
+user	0m11.672s
+sys	0m10.808s
+-----Measurement 0.85 loss-----
+
+real	2m49.303s
+user	0m14.148s
+sys	0m12.664s
+
+real	2m49.772s
+user	0m12.708s
+sys	0m11.324s
+
+real	2m41.338s
+user	0m12.060s
+sys	0m10.540s
+-----Measurement 0.9 loss-----
+
+real	2m49.449s
+user	0m14.920s
+sys	0m13.080s
+
+real	2m42.167s
+user	0m12.024s
+sys	0m10.520s
+
+real	2m44.950s
+user	0m12.224s
+sys	0m11.128s
+-----Measurement 0.95 loss-----
+
+real	2m57.232s
+user	0m13.784s
+sys	0m12.560s
+
+real	2m51.708s
+user	0m11.688s
+sys	0m10.936s
+
+real	2m58.340s
+user	0m13.952s
+sys	0m12.356s
+-----Measurement 1.0 loss-----
+
+real	3m0.987s
+user	0m12.676s
+sys	0m11.496s
+
+real	3m2.823s
+user	0m12.448s
+sys	0m11.516s
+
+real	3m6.406s
+user	0m14.324s
+sys	0m13.348s
